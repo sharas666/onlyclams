@@ -7,7 +7,7 @@ export default class TwitchPlayer extends PureComponent {
         <div class="iframe-container">
           <iframe
             title="twitch stream"
-            src="https://player.twitch.tv/?channel=clammy&parent=https://www.onlyclams.live/"
+            src="https://player.twitch.tv/?channel=clammy&parent=www.onlyclams.live"
             frameborder="0"
             allowfullscreen="true"
             scrolling="no"

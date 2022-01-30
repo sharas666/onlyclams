@@ -1,0 +1,34 @@
+.FooterButton:hover {
+  background-color: rgb(1, 110, 255);
+}
+
+.Footer {
+  position: fixed;
+  border-radius: 10px;
+  font-size: 1em;
+  text-align: left;
+  color: gray;
+
+  border: 1px solid lightgray;
+  padding: 1%;
+  margin-left: 1%;
+  margin-top: 1%;
+  width: 20vw;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-weight: 500;
+}
+
+.FooterLabel {
+  padding-bottom: 5%;
+}
+.FooterButton {
+  border-radius: 25px;
+  background-color: rgb(1, 126, 255);
+  color: white;
+  padding: 2%;
+  font-size: 0.75em;
+  border: none;
+  width: 100%;
+}

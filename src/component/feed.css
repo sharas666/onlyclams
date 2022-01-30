@@ -1,0 +1,12 @@
+.Feed {
+  /* background-color: brown; */
+  /* display: flex;
+  flex-direction: column; */
+  height: 100vh;
+  border: 1px solid lightgray;
+  width: max-content;
+}
+
+iframe {
+  align-self: center;
+}

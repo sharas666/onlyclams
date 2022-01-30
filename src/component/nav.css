@@ -1,0 +1,7 @@
+.Nav {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  width: 15vw;
+  transform: translateX(-15vw);
+}

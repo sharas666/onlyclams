@@ -16,6 +16,7 @@
 }
 .logo {
   width: 620px;
+  background-color: lightgrey;
 }
 .profileBox {
   position: relative;
